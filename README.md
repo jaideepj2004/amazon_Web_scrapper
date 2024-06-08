@@ -30,7 +30,7 @@ Clone the Repository:
 
 
 
-git clone [https://github.com/yourusername/amazon-web-scraper.git](https://github.com/jaideepj2004/amazon_Web_scrapper)
+git clone (https://github.com/jaideepj2004/amazon_Web_scrapper)
 cd amazon-web-scraper
 Set Up MySQL Database:
 
